@@ -3,64 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/tags/#bxlmakers/</loc>
+    <loc>http://yourgithubusername.github.io/tags/#bxlmakers/</loc>
     <lastmod>2019-02-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/#weart/</loc>
+    <loc>http://yourgithubusername.github.io/tags/#weart/</loc>
     <lastmod>2019-02-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/#exhibition/</loc>
+    <loc>http://yourgithubusername.github.io/tags/#exhibition/</loc>
     <lastmod>2019-02-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://yourgithubusername.github.io/categories/</loc>
     <lastmod>2019-02-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/exhibitions/</loc>
+    <loc>http://yourgithubusername.github.io/categories/exhibitions/</loc>
     <lastmod>2019-02-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/post/luca-show-2019/</loc>
+    <loc>http://yourgithubusername.github.io/post/luca-show-2019/</loc>
     <lastmod>2019-02-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/post/</loc>
-    <lastmod>2019-02-17T13:47:08+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://example.org/</loc>
+    <loc>http://yourgithubusername.github.io/post/</loc>
     <lastmod>2019-02-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://yourgithubusername.github.io/</loc>
     <lastmod>2019-02-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/about/</loc>
+    <loc>http://yourgithubusername.github.io/tags/</loc>
+    <lastmod>2019-02-17T13:47:08+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/contact/</loc>
+    <loc>http://yourgithubusername.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://yourgithubusername.github.io/contact/</loc>
   </url>
   
 </urlset>
