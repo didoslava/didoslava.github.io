@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strata</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Strata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Feb 2019 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LUCA Show 2019</title>
+      <link>https://example.org/post/luca-show-2019/</link>
+      <pubDate>Sun, 17 Feb 2019 13:47:08 +0200</pubDate>
+      
+      <guid>https://example.org/post/luca-show-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>I am an artist with completed Bachelor studies in Animation and visual effects and Master studies in Graphic storytelling, especially interested in children’s literature regarding difficult topics, unconventional children’s books and graphic narratives about marginalized experiences of the world. Currently living in Leuven, Belgium.
+Artist in residency -Experimental comics residency-laboratory (PFC#6 : ChiFouMi des étudiants), Angouleme, France, January 2019.
+-ReLocation, residency Destelheide Hanenbos, Belgium, June 2018.
+Exhibitions Collective Exhibition “From HAUNTED to GHOSTED” presented comics made during our Pierre Feuille Ciseaux “Student” edition (with Association Chifoumi) EESI, Angouleme, France January 2019.</description>
+    </item>
+    
+    <item>
+      <title>Stay in touch</title>
+      <link>https://example.org/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
