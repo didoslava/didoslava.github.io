@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Dragana Radanovic&#39;s website</title>
-    <link>https://draganaradanovic.com/post/</link>
-    <description>Recent content in Posts on Dragana Radanovic&#39;s website</description>
+    <title>#interview on Dragana Radanovic&#39;s website</title>
+    <link>https://draganaradanovic.com/tags/#interview/</link>
+    <description>Recent content in #interview on Dragana Radanovic&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Nov 2019 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="https://draganaradanovic.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://draganaradanovic.com/tags/#interview/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://draganaradanovic.com/post/pulp_deluxe_interview/</guid>
       <description>http://www.pulpdeluxe.be/verhoor-dragana-radanovic/</description>
-    </item>
-    
-    <item>
-      <title>LUCA Show 2019</title>
-      <link>https://draganaradanovic.com/post/luca-show-2019/</link>
-      <pubDate>Sun, 17 Feb 2019 13:47:08 +0200</pubDate>
-      
-      <guid>https://draganaradanovic.com/post/luca-show-2019/</guid>
-      <description></description>
     </item>
     
   </channel>
