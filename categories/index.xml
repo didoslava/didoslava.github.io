@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Dragana Radanovic&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Nov 2019 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2020 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="https://draganaradanovic.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Practice</title>
+      <link>https://draganaradanovic.com/categories/practice/</link>
+      <pubDate>Wed, 22 Apr 2020 13:47:08 +0200</pubDate>
+      
+      <guid>https://draganaradanovic.com/categories/practice/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interviews</title>
@@ -26,6 +35,15 @@
       <pubDate>Sun, 17 Feb 2019 13:47:08 +0200</pubDate>
       
       <guid>https://draganaradanovic.com/categories/exhibitions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://draganaradanovic.com/categories/workshops/</link>
+      <pubDate>Wed, 30 Jan 2019 13:47:08 +0200</pubDate>
+      
+      <guid>https://draganaradanovic.com/categories/workshops/</guid>
       <description></description>
     </item>
     
