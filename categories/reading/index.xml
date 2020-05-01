@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>#Comics on Dragana Radanovic&#39;s website</title>
-    <link>https://draganaradanovic.com/tags/#comics/</link>
-    <description>Recent content in #Comics on Dragana Radanovic&#39;s website</description>
+    <title>Reading on Dragana Radanovic&#39;s website</title>
+    <link>https://draganaradanovic.com/categories/reading/</link>
+    <description>Recent content in Reading on Dragana Radanovic&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Apr 2020 13:47:08 +0200</lastBuildDate>
     
-	<atom:link href="https://draganaradanovic.com/tags/#comics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://draganaradanovic.com/categories/reading/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,16 +19,6 @@
       <guid>https://draganaradanovic.com/post/how-to-discover-new-interesting-graphic-novels/</guid>
       <description>Last week you asked how I find interesting new comics to read. Hmm, I am a professional comic book reader, as I like to say. What does it mean? I read comics even if I find them unappealing on the first ball, and also if by my personal taste they are in the basket labelled “Naah”.
 But this wasn’t always like that. I think it all started when I was really young.</description>
-    </item>
-    
-    <item>
-      <title>How to make a short comic story?</title>
-      <link>https://draganaradanovic.com/post/how-to-make-a-short-comic/</link>
-      <pubDate>Wed, 22 Apr 2020 13:47:08 +0200</pubDate>
-      
-      <guid>https://draganaradanovic.com/post/how-to-make-a-short-comic/</guid>
-      <description>SHORT COMIC STORY, the comic form that many believe it is hardest to make. There is a limited amount of pages (you can&amp;rsquo;t fit an action movie into 1-4 pages, or you can?).
-Last week I was determined to make a short story, but as soon as I started thinking about the topic of the story, I gave up. If I couldn&amp;rsquo;t decide about the topic I want to draw, how could I come up with the story?</description>
     </item>
     
   </channel>
