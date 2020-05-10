@@ -2463,19 +2463,20 @@
 
 	#header {
 		background-color: #ffffff;
-		background-attachment: scroll,								fixed;
+		/* background-attachment: scroll,								fixed;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
-		background-size: auto,								auto 100%;
+		background-size: auto,								auto 100%; */
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
-		left: 0;
-		padding: 8em 4em 0 0;
-		position: fixed;
-		text-align: right;
+		/* left: 0; */
+		padding: 8em 4em 4em 4em;
+		/* position: fixed; */
+		text-align: center;
 		top: 0;
-		width: 35%;
+		width: 110%;
 	}
+
 
 		#header strong, #header b {
 			color: #b2b2b2;
@@ -2493,7 +2494,7 @@
 		}
 
 		#header .image.avatar {
-			margin: 0 0 1em 0;
+			margin: 0 0 0 0;
 			width: 12.0em;
 		}
 
@@ -2503,9 +2504,9 @@
 		bottom: 0;
 		left: 0;
 		padding: 0 4em 6em 0;
-		position: fixed;
-		text-align: right;
-		width: 35%;
+		/* position: fixed; */
+		text-align: center;
+		width: 100%;
 	}
 
 		#footer .icons {
@@ -2545,10 +2546,10 @@
 /* Main */
 
 	#main {
-		margin-left: 35%;
+		margin-left: 25%;
 		max-width: 54em;
 		padding: 8em 4em 4em 4em;
-		width: calc(100% - 35%);
+		width: calc(100% - 25%);
 	}
 
 		#main > section {
@@ -2848,7 +2849,7 @@
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
+				padding: 2em 3em 3em 3em;
 				width: 30%;
 			}
 
@@ -2878,9 +2879,9 @@
 		/* Main */
 
 			#main {
-				margin-left: 30%;
+				margin-left: 30;
 				max-width: none;
-				padding: 6em 3em 3em 3em;
+				padding: 2em 3em 3em 3em;
 				width: calc(100% - 30%);
 			}
 
@@ -2909,7 +2910,7 @@
 				background-position: top left, center center;
 				background-size: auto,		cover;
 				left: auto;
-				padding: 6em 4em;
+				padding: 2em 4em;
 				position: relative;
 				text-align: center;
 				top: auto;
@@ -2960,7 +2961,7 @@
 
 			#main {
 				margin: 0;
-				padding: 6em 4em;
+				padding: 2em 4em;
 				width: 100%;
 			}
 
@@ -3131,12 +3132,14 @@
 
 	#sidebar {
 		margin-top: 1.5em;
+		/* margin-left: 25% */
 	}
 
 	#sidebar ul li {
 		list-style: none;
 		font-size: 1.35em;
 		line-height: 1.5em;
+		display: inline-block; float: none;
 	}
 
 	#sidebar ul li a,
@@ -3154,3 +3157,24 @@
 	 font-size: 20px;
 	 line-height: 36px;
  }
+
+ .content-column {
+	 float: left;
+   width: 49%;
+ }
+
+ /* .foo-wrap {
+     display: inline-block;
+ }
+
+ div.foo {
+    display: inline-block;
+    vertical-align: top;
+    width: 300px;
+ }
+
+ @media all and (max-width: 925px) {
+     .foo-wrap {
+         width: 300px;
+     }
+ } */

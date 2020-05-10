@@ -1,0 +1,27 @@
+.content-column {
+  margin-bottom: 15px;
+  color: #777;
+}
+.one_half  {
+	width: 50%;
+}
+
+.one_half.last_column {
+	width: 49% !important;
+	margin-right: 0px !important;
+}
+
+section {
+    margin: auto;
+    padding-top: 10px;
+}
+div#sectionleft {
+    float: left;
+    width: 50%;
+    margin-right: 10px;
+}
+div#sectionright {
+    float: right;
+    width: 50%;
+    margin: auto;
+}
