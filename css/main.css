@@ -2090,6 +2090,7 @@
 				width: 100%;
 			}
 
+
 /* List */
 
 	ol {
@@ -3092,6 +3093,9 @@
 				#header h1 br {
 					display: none;
 				}
+			#header .image.avatar {
+				width: 99%
+			}
 
 		/* Footer */
 
