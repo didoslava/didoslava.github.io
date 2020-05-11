@@ -2475,7 +2475,7 @@
 		/* position: fixed; */
 		text-align: center;
 		top: 0;
-		width: 100%;
+		width: 50%;
 		margin: auto;
 	}
 
@@ -2496,8 +2496,7 @@
 		}
 
 		#header .image.avatar {
-			margin: 0 0 0 0;
-			width: 30.0em;
+
 		}
 
 /* Footer */
@@ -2853,7 +2852,8 @@
 
 			#header {
 				padding: 2em 3em 3em 3em;
-				width: 30%;
+				width: 75%;
+				margin: auto;
 			}
 
 				#header h1 {
@@ -2868,7 +2868,8 @@
 
 			#footer {
 				padding: 2em 3em 3em 3em;
-				width: 30%;
+				width: 75%;
+				margin: auto;
 			}
 
 				#footer .copyright li {
@@ -2882,9 +2883,9 @@
 		/* Main */
 
 			#main {
-				max-width: 100%;
-				padding: 2em 3em 3em 3em;
-				width: auto;
+				padding: 0em 3em 3em 3em;
+				width: 75%;
+				margin: auto;
 			}
 
 	}
@@ -3095,7 +3096,7 @@
 					display: none;
 				}
 			#header .image.avatar {
-				width: 99%
+				/* width: 99% */
 			}
 
 		/* Footer */
