@@ -2475,7 +2475,8 @@
 		/* position: fixed; */
 		text-align: center;
 		top: 0;
-		width: 100%;
+		width: 75%;
+		margin: auto;
 	}
 
 
@@ -2547,10 +2548,11 @@
 /* Main */
 
 	#main {
-		margin-left: 26%;
-		max-width: 62em;
+
+		/* max-width: 62em; */
 		padding: 0 4em 4em 4em;
-		width: calc(100% - 26%);
+		width: 50%;
+		margin: auto;
 	}
 
 		#main > section {
@@ -2880,10 +2882,9 @@
 		/* Main */
 
 			#main {
-				margin-left: 30;
-				max-width: none;
+				max-width: 100%;
 				padding: 2em 3em 3em 3em;
-				width: calc(100% - 30%);
+				width: auto;
 			}
 
 	}
