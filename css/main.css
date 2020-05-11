@@ -1585,7 +1585,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #418689 !important;
+			color: #c8d6e5 !important;
 			text-decoration: none;
 		}
 
@@ -2105,11 +2105,11 @@
 	ul {
 		list-style: disc;
 		margin: 0 0 2em 0;
-		padding-left: 1em;
+		padding-left: 0em;
 	}
 
 		ul li {
-			padding-left: 0.5em;
+			padding-left: 0.6em;
 		}
 
 		ul.alt {
@@ -2495,7 +2495,7 @@
 
 		#header .image.avatar {
 			margin: 0 0 0 0;
-			width: 12.0em;
+			width: 30.0em;
 		}
 
 /* Footer */
